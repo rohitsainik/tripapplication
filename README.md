@@ -1,10 +1,11 @@
 # tripapplication
 
-A new Flutter project.
+Flutter Ui Design of A trip application </br>
+Designed by Taras Migulko
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/42839360/125749252-84443eba-7744-47b1-a165-26705bdbeffb.png)
 
 A few resources to get you started if this is your first Flutter project:
 
