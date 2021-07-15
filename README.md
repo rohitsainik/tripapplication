@@ -3,7 +3,7 @@
 Flutter Ui Design of A trip application </br>
 Designed by Taras Migulko
 
-## Getting Started
+## SnapShot
 
 ![image](https://user-images.githubusercontent.com/42839360/125749252-84443eba-7744-47b1-a165-26705bdbeffb.png)
 
